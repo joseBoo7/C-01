@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoaquiraHnos</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Lista</string>
+    <string name="title_notifications">Agregar</string>
+    <string name="name_error">Nombre Invalido</string>
+    <string name="name_comentario">Comentario Invalido</string>
+</resources>
